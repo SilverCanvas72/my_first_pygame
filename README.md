@@ -1,4 +1,5 @@
-# Unfinished - Pygame Movement and Collsiion System
+# Unfinished - Pygame Movement and Collision System
+  Made to experiment with pygame. It was very intersting to do everything from scratch but was also a bit overwhelming.
 
 ## To Try out:
 
